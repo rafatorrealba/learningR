@@ -1,0 +1,27 @@
+MY_MAKE = 'make'
+MY_CC = 'gcc'
+MY_CFLAGAS = '-g -O2 -fdebug-prefix-map=/build/r-base-AitvI6/r-base-3.4.4=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g '
+MY_LDFLAGAS = '-Wl,-Bsymbolic-functions -Wl,-z,relro'
+MY_CPPFLAGAS = '-I/usr/share/R/include -DNDEBUG -I./zmqsrc/include  '
+MY_CXX = 'g++ '
+MY_CXXFLAGAS = '-g -O2 -fdebug-prefix-map=/build/r-base-AitvI6/r-base-3.4.4=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g '
+MY_POLLER = 'select'
+MY_ZMQ_DIR = '/tmp/RtmpE8ILXI/R.INSTALL18ae3eddd072/pbdZMQ/src/zmqsrc'
+GET_PKG_CONFIG = yes
+GET_SYSTEM_ZMQ = no
+PKG_CONFIG = /usr/bin/pkg-config
+SYSTEM_ZMQ_INCLUDEDIR = 
+SYSTEM_ZMQ_LIBDIR = 
+ENABLE_INTERNAL_ZMQ = no
+INTERNAL_ZMQ_INCLUDEDIR = ./zmqsrc/include
+INTERNAL_ZMQ_LIBDIR = ./
+EXTERNAL_ZMQ_INCLUDE = 
+EXTERNAL_ZMQ_LDFLAGS = 
+ZMQ_INCLUDE = -I./zmqsrc/include
+ZMQ_LDFLAGS = -L./ -lzmq
+EXT_LIBS = libzmq.so
+ZMQ_POLLER = select
+PKG_CPPFLAGS = -I./zmqsrc/include
+PKG_CFLAGS = -I./zmqsrc/include
+PKG_CXXFLAGS = -I./zmqsrc/include
+PKG_LIBS = -L./ -lzmq

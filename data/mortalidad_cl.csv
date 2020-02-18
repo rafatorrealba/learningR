@@ -1,0 +1,46 @@
+ID CIE 10,CIE 10,ID Year,Year,Casualities Count SUM,Casualities rate per 100 inhabitants
+B20-B24,Infecciones por VIH y SIDA,2010,2010,435.0,0.024140000141536198
+B20-B24,Infecciones por VIH y SIDA,2011,2011,472.0,0.028300000222710273
+B20-B24,Infecciones por VIH y SIDA,2012,2012,456.0,0.026610000105574728
+B20-B24,Infecciones por VIH y SIDA,2013,2013,523.0,0.027196667071742318
+B20-B24,Infecciones por VIH y SIDA,2014,2014,506.0,0.029523333239679535
+C00-D48,Tumores (neoplasias),2010,2010,24088.0,1.3944733301798502
+C00-D48,Tumores (neoplasias),2011,2011,24582.0,1.432640008131663
+C00-D48,Tumores (neoplasias),2012,2012,25421.0,1.4690966626008353
+C00-D48,Tumores (neoplasias),2013,2013,25687.0,1.4404233296712239
+C00-D48,Tumores (neoplasias),2014,2014,26042.0,1.4688133358955384
+E00-E90,"Enfermedades endocrinas, nutricionales y metabolicas",2010,2010,4821.0,0.27404999807477
+E00-E90,"Enfermedades endocrinas, nutricionales y metabolicas",2011,2011,4640.0,0.25414333343505857
+E00-E90,"Enfermedades endocrinas, nutricionales y metabolicas",2012,2012,4930.0,0.2746066654721896
+E00-E90,"Enfermedades endocrinas, nutricionales y metabolicas",2013,2013,4876.0,0.2537800004084905
+E00-E90,"Enfermedades endocrinas, nutricionales y metabolicas",2014,2014,5188.0,0.2717100024223328
+I00-I99,Enfermedades del sistema circulatorio,2010,2010,27158.0,1.5335266629854838
+I00-I99,Enfermedades del sistema circulatorio,2011,2011,25744.0,1.4518899997075398
+I00-I99,Enfermedades del sistema circulatorio,2012,2012,27179.0,1.5533333361148833
+I00-I99,Enfermedades del sistema circulatorio,2013,2013,27660.0,1.5059133350849152
+I00-I99,Enfermedades del sistema circulatorio,2014,2014,28060.0,1.4985533197720846
+J00-J99,Enfermedades del sistema respiratorio,2010,2010,9993.0,0.6034833317001661
+J00-J99,Enfermedades del sistema respiratorio,2011,2011,9104.0,0.5275600026051204
+J00-J99,Enfermedades del sistema respiratorio,2012,2012,10118.0,0.5772733320792516
+J00-J99,Enfermedades del sistema respiratorio,2013,2013,10269.0,0.5614733338356018
+J00-J99,Enfermedades del sistema respiratorio,2014,2014,10447.0,0.5502000028888384
+K00-K93,Enfermedades del sistema digestivo,2010,2010,7051.0,0.4126633360981941
+K00-K93,Enfermedades del sistema digestivo,2011,2011,6964.0,0.40333333214124045
+K00-K93,Enfermedades del sistema digestivo,2012,2012,7140.0,0.3985333308577538
+K00-K93,Enfermedades del sistema digestivo,2013,2013,7349.0,0.42387666255235673
+K00-K93,Enfermedades del sistema digestivo,2014,2014,7469.0,0.41435332894325255
+V01-V99,Accidentes de tránsito,2010,2010,2097.0,0.13654999987532696
+V01-V99,Accidentes de tránsito,2011,2011,2113.0,0.1562600012868643
+V01-V99,Accidentes de tránsito,2012,2012,2050.0,0.14466999893387159
+V01-V99,Accidentes de tránsito,2013,2013,2121.0,0.14152999985963105
+V01-V99,Accidentes de tránsito,2014,2014,1982.0,0.12311000047872464
+V01-Y98,Causa Externa de mortalidad,2010,2010,8385.0,0.5334799985090891
+V01-Y98,Causa Externa de mortalidad,2011,2011,8027.0,0.5322333335876465
+V01-Y98,Causa Externa de mortalidad,2012,2012,7561.0,0.49222666571537654
+V01-Y98,Causa Externa de mortalidad,2013,2013,7617.0,0.4793400004506111
+V01-Y98,Causa Externa de mortalidad,2014,2014,7730.0,0.4678499991695086
+X60-X84,Lesiones autoinfligidas intencionalmente,2010,2010,1986.0,0.12864333416024845
+X60-X84,Lesiones autoinfligidas intencionalmente,2011,2011,2027.0,0.12407333465913932
+X60-X84,Lesiones autoinfligidas intencionalmente,2012,2012,1841.0,0.1115866664176186
+X60-X84,Lesiones autoinfligidas intencionalmente,2013,2013,1738.0,0.10222000032663345
+X60-X84,Lesiones autoinfligidas intencionalmente,2014,2014,1789.0,0.10371666653081775
