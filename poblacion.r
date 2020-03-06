@@ -1,12 +1,10 @@
 library(tidyverse)
-
 library(dslabs)
 library(dplyr)
 library(readr)
 
 
 lapintana <- read_csv("/home/rtorrealba/learningR/data/lapintana.csv")
-
 lapintana
 
 lapintana %>%
@@ -25,7 +23,6 @@ ggplot(data = poblacion_2002_2020) +
 
 
 poblacion <- read_csv("/home/rtorrealba/learningR/data/poblacion2020.csv")
-
 
 proyeccion <- read_csv("/home/rtorrealba/learningR/data/proyeccion.csv")
 
